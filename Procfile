@@ -1,2 +1,2 @@
-test1: ruby text.rb
-test2: ruby text2.rb
+test1: bundle exec ruby text.rb
+test2: ruby text.rb
