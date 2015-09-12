@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/headius/jruby-pg.git
+  revision: c236a380b7d944f118ce5afdd80bfcefdc41f577
+  branch: master
+  specs:
+    pg (0.17.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  pg (= 0.17.1)!
+
+BUNDLED WITH
+   1.10.5
